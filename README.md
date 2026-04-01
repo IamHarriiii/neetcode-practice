@@ -1,4 +1,4 @@
-# 🚀 NeetCode Solutions — Hari Narayanan
+# 🚀 NeetCode Solutions — IamHarriiii
 
 > A structured collection of Data Structures & Algorithms solutions, synced from NeetCode and curated for technical interview preparation.
 
